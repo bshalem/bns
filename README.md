@@ -7,8 +7,8 @@ The data is formatted as a collection of four json line files. Each json object 
     "volume": [3],
     "chapter": ["11"],
     "text": ["source text"],
-    "e-summary": ["extractive summary"],
-    "a-summary": ["abstractive summary"],
+    "esummary": ["extractive summary"],
+    "asummary": ["abstractive summary"],
     "id": ["101"],
   },
 ```
