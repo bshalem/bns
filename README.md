@@ -9,9 +9,9 @@ The data is formatted as a collection of four json line files. Each json object 
     "text": ["source text"],
     "e-summary": ["extractive summary"],
     "a-summary": ["abstractive summary"],
-    "id": [101"],
+    "id": ["101"],
   },
-
+```
 # Download BNS
 The dataset comprises four biographical narratives formatted as jsonl files: [douglass.jsonl](douglass.jsonl), [grant.jsonl](grant.jsonl),[marktwain.jsonl](marktwain.jsonl), [napoleon.jsonl](napoleon.jsonl).
 
