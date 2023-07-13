@@ -31,6 +31,6 @@ If you use the BNS dataset as part of your work, please cite:
         year = {2023},
         publisher = {Association for Computational Linguistics},
         address = {Toronto, Canada},
-        pages = {1},
+        pages = {145-155},
     }
     
