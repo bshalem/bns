@@ -21,8 +21,6 @@ More details on the collecting of the data is available in our companion paper:
 Avi Bleiweiss. *Two-step Text Summarization for Long-form Biographical Narrative Genre*. In CODI, 2023.
 
 ### Citation
-If you use the BNS dataset as part of your work, please cite:
-
     @inproceedings{,
         author = {Bleiweiss, Avi},
         title = {Two-step Text Summarization for Long-form Biographical Narrative Genre},
